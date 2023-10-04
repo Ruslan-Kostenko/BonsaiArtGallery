@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BonsaiArtGallery/static/css/main.7acaea2f.css",
-    "main.js": "/BonsaiArtGallery/static/js/main.07d3183d.js",
+    "main.css": "/BonsaiArtGallery/static/css/main.7cda0caf.css",
+    "main.js": "/BonsaiArtGallery/static/js/main.2264617d.js",
     "index.html": "/BonsaiArtGallery/index.html",
-    "main.7acaea2f.css.map": "/BonsaiArtGallery/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/BonsaiArtGallery/static/js/main.07d3183d.js.map"
+    "main.7cda0caf.css.map": "/BonsaiArtGallery/static/css/main.7cda0caf.css.map",
+    "main.2264617d.js.map": "/BonsaiArtGallery/static/js/main.2264617d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.7cda0caf.css",
+    "static/js/main.2264617d.js"
   ]
 }
